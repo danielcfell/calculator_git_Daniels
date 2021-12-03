@@ -9,6 +9,8 @@ public class CalculatorExecute {
         System.out.println("c.addition(4,8)= "+add);
         int resta = c.subtraction(8,2);
         System.out.println("c.subtraction(8,2)= "+resta);
-
+        System.out.println("c.division(8,4)= "+c.division(8,4));
+        System.out.println("Membros del grupo 7: ");
+        System.out.println("Daniel Castilo, Daniel Garrido, Daniela Romero");
     }
 }
