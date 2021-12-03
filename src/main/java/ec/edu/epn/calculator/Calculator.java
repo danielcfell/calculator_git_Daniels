@@ -8,7 +8,9 @@ public class Calculator {
     public int subtraction(int a, int b){
         return a-b;
     }
-
+    public int producto(int a ,int b){
+        return a*b;
+    }
    @SuppressWarnings("IntegerDivisionInFloatingPointContext")
     public double division(int a, int b){
         return a/b;
